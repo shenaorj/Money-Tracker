@@ -1,16 +1,31 @@
-# moneytracker
+# 💰 Income & Expense Tracker App
 
-A new Flutter project.
+A simple and effective Flutter app to track your personal finances. Easily register your incomes and expenses, and keep your budget under control.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 📥 Add and manage incomes
+- 📤 Add and manage expenses
+- 📊 Summary of total balance
+- 🧾 Categorized transactions
+- 💡 User-friendly interface
+- 💻 Built entirely with Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Status
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ **Technical development finished**  
+✅ **Income and expense tracking working smoothly**  
+🔧 Future features planned: data export, graphs, user authentication
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Provider (for state management)
+- Material Design
+
+## 📸 Screenshots
+
+*Coming soon...*
+
+
